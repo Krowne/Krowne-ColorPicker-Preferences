@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/app_name" xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/settings_cat1">
+        <com.krowne.lib.colorpicker.ColorPickerPreference android:key="cpac" android:defaultValue="0xffeeeeee" android:title="@string/settings_title" showCheckBox="true" alphaSlider="true"/>
+        <com.krowne.lib.colorpicker.ColorPickerPreference android:key="cpas" android:defaultValue="0xffeeeeee" android:title="@string/settings_title" alphaSlider="true"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/settings_cat2">
+        <com.krowne.lib.colorpicker.ColorPickerPreference android:key="cpnc" android:defaultValue="0xffeeeeee" android:title="@string/settings_title" showCheckBox="true" />
+        <com.krowne.lib.colorpicker.ColorPickerPreference android:key="cpns" android:defaultValue="0xffeeeeee" android:title="@string/settings_title" />
+    </PreferenceCategory>
+</PreferenceScreen>

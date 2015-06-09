@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ColorPicker</string>
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Click to apply</string>
+    <string name="settings_cat1">ColorPicker with Alpha</string>
+    <string name="settings_cat2">ColorPicker without Alpha</string>
+    <string name="settings_title">Example ColorPicker</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlNormal">@color/colorAccent</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <item name="navigationIcon">@drawable/icon</item>
+        <item name="android:textColorPrimary">#000</item>
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:foreground">?android:windowContentOverlay</item>
+        <item name="android:windowContentOverlay">@drawable/bottom_shadow</item>
+    </style>
+</resources>
