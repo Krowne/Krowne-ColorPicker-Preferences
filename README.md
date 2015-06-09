@@ -1,12 +1,12 @@
-=====================
-Krowne - ColorPicker - Preference
-=====================
+|=====================================|
+|  Krowne - ColorPicker - Preference  |
+|=====================================|
 
-Version modified by Krowne.
-ColorPickerPreference class by Sergey Margaritov.
+* Version modified by Krowne.
+* ColorPickerPreference class by Sergey Margaritov.
 
-Features
-========
+Features:
+=========
 
 * Color Area
 * Hue Slider
@@ -17,15 +17,15 @@ Features
 * Color in new format (circle).
 * Color activation checkbox (customized)
 
-Requirements
-============
+Requirements:
+=============
 
 * Tested with APIv7, but maybe will work with early versions
 * This new version works on Android Studio.
 
 
-Usage
-=====
+Usage:
+======
 
 You can see some tests inside
 
