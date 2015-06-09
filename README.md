@@ -29,15 +29,14 @@ Usage:
 
 You can see some tests inside
 
-::
-    <net.margaritov.preference.colorpicker.ColorPickerPreference
-        android:key="color1"
+<net.margaritov.preference.colorpicker.ColorPickerPreference
+	android:key="color1"
         android:title="@string/color1_title"
         android:summary="@string/color1_summary"
         android:defaultValue="@color/pumpkin_orange"    <!-- Integer resources are also accepted -->
-		showCheckBox="true"								<!-- Enable color via Checkbox -->
+	showCheckBox="true"				<!-- Enable color via Checkbox -->
         alphaSlider="true"                              <!-- Enable Alpha slider via XML -->
-    />
+	/>
 
 To enable Alpha Slider in your code use function:
 ::
