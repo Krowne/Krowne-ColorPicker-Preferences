@@ -35,7 +35,7 @@ You can see some tests inside:
           android:title="@string/color1_title"
           android:summary="@string/color1_summary"
           android:defaultValue="@color/pumpkin_orange"    <!-- Integer resources are also accepted -->
-          showCheckBox="true"		                      		<!-- Enable color via Checkbox -->
+          showCheckBox="true"		                     <!-- Enable color via Checkbox -->
           alphaSlider="true"                              <!-- Enable Alpha slider via XML -->
           />
 
