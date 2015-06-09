@@ -45,9 +45,4 @@ To enable Alpha Slider in your code use function:
 
 Screens
 =======
-
-* .. image:: 
-* 
-* ![Alt text](https://github.com/Krowne/Krowne-ColorPicker-Preferences/blob/master/captures/colorpicker.png?raw=true "Captures")
-* 
-
+![Alt text](https://github.com/Krowne/Krowne-ColorPicker-Preferences/blob/master/captures/colorpicker.png?raw=true "Captures")
