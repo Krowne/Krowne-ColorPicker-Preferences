@@ -1,6 +1,6 @@
-|=====================================|
-|  Krowne - ColorPicker - Preference  |
-|=====================================|
+=====================================
+  Krowne - ColorPicker - Preference 
+=====================================
 
 * Version modified by Krowne.
 * ColorPickerPreference class by Sergey Margaritov.
