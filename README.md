@@ -28,7 +28,7 @@ Usage:
 ======
 
 You can see some tests inside
-
+  ::
 <net.margaritov.preference.colorpicker.ColorPickerPreference
 	android:key="color1"
         android:title="@string/color1_title"
@@ -39,7 +39,7 @@ You can see some tests inside
 	/>
 
 To enable Alpha Slider in your code use function:
-::
+  ::
     setAlphaSliderEnabled(boolean enable)
 
 Screens
